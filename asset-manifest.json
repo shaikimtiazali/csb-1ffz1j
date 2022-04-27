@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shaikimtiazali.github.io/csb-1ffz1j/static/css/main.d9f9ed01.chunk.css",
+    "main.js": "https://shaikimtiazali.github.io/csb-1ffz1j/static/js/main.73108b54.chunk.js",
+    "main.js.map": "https://shaikimtiazali.github.io/csb-1ffz1j/static/js/main.73108b54.chunk.js.map",
+    "runtime-main.js": "https://shaikimtiazali.github.io/csb-1ffz1j/static/js/runtime-main.e26541d6.js",
+    "runtime-main.js.map": "https://shaikimtiazali.github.io/csb-1ffz1j/static/js/runtime-main.e26541d6.js.map",
+    "static/js/2.26e838df.chunk.js": "https://shaikimtiazali.github.io/csb-1ffz1j/static/js/2.26e838df.chunk.js",
+    "static/js/2.26e838df.chunk.js.map": "https://shaikimtiazali.github.io/csb-1ffz1j/static/js/2.26e838df.chunk.js.map",
+    "index.html": "https://shaikimtiazali.github.io/csb-1ffz1j/index.html",
+    "static/css/main.d9f9ed01.chunk.css.map": "https://shaikimtiazali.github.io/csb-1ffz1j/static/css/main.d9f9ed01.chunk.css.map",
+    "static/js/2.26e838df.chunk.js.LICENSE.txt": "https://shaikimtiazali.github.io/csb-1ffz1j/static/js/2.26e838df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e26541d6.js",
+    "static/js/2.26e838df.chunk.js",
+    "static/css/main.d9f9ed01.chunk.css",
+    "static/js/main.73108b54.chunk.js"
+  ]
+}
